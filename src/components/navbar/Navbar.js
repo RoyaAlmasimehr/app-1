@@ -13,8 +13,8 @@ function MyNavbar() {
     <div>
       <Navbar
         key={expand}
-        style={{ backgroundColor: "rgb(186,182,253)" }}
-        expand ={expand}
+        style={{ backgroundColor: "#bbe4e9" }}
+        expand={expand}
         className=" mb-3"
       >
         <Container>
