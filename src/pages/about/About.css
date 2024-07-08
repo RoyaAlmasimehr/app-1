@@ -1,0 +1,50 @@
+.about-1{
+    text-align: justify;
+}
+.about-1 h1 , h2{
+    color: #5585b5;
+        font-family: "Lalezar";
+}
+.about-1 h2{
+    color: #5585b5;
+        font-family: "Lalezar";
+}
+
+.about-2 h2{
+    color: #5585b5;
+        font-family: "Lalezar";
+        padding-bottom: 20px;
+}
+.about-3 h2{
+    color: #5585b5;
+        font-family: "Lalezar";
+}
+.about-4 h2{
+    color: #5585b5;
+    font-family: "Lalezar";
+}
+.about-1{
+      padding-top: 40px;
+}
+
+
+.about-2{
+    text-align: justify;
+    padding-top: 40px;
+}
+.about-3{
+      padding-top: 40px;
+}
+
+.about-4{
+      padding-top: 40px;
+}
+.about-5{
+    text-align: justify;
+    padding-top: 40px;
+    padding-bottom: 80px;
+}
+.about-5 h2{
+    color: #5585b5;
+        font-family: "Lalezar";
+}
